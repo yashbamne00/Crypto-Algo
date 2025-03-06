@@ -1,6 +1,8 @@
 Simple Price Channel Breakout Trading Strategy
 
-![Description](./result.png)
+<p align="center">
+  <img src="./result.png" alt="Description" width="400"/>
+</p>
 
 
 Description:
