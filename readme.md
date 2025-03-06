@@ -1,6 +1,8 @@
 Simple Price Channel Breakout Trading Strategy
 
-<img src="https://www.newsbtc.com/wp-content/uploads/2024/03/notcoin.png" alt="Notcoin Rally" width="400"/>
+<p align="center">
+  <img src="./notcoin.webp" alt="Description" width="400"/>
+</p>
 
 Description:
 This Python script fetches historical cryptocurrency price data, identifies buy/sell signals based on price breakouts, calculates profit/loss, and plots the results. 
