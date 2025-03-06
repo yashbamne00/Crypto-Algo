@@ -18,24 +18,23 @@ It identifies the highest high & lowest low over the last 250 bars to determine 
 🔹 Green Vertical Lines → Buy Signals 🟢
 🔸 Red Vertical Lines → Sell Signals 🔴
 
+
 🛠 Setup & Usage
-💡 To Run This Script:
+1️⃣ Install Dependencies
+Make sure you have Python installed along with these libraries:
 
 bash
 Copy
 Edit
-# Clone the repository
-git clone https://github.com/yourusername/repository-name.git
-
-# Navigate to the project folder
-cd repository-name
-
-# Install dependencies
 pip install requests matplotlib
+2️⃣ Run the Script
+bash
+Copy
+Edit
+python notusd.py
+3️⃣ View Results
+The script will output your Profit & Loss and the latest signal (Buy/Sell/Hold).
 
-# Run the script
-python script.py
-⚡ Within seconds, you'll see your trade signals plotted beautifully! 🎯
 
 🏆 Final Thoughts
 ✅ Simple & effective Price Channel Breakout strategy.
