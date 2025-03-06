@@ -1,4 +1,8 @@
 Simple Price Channel Breakout Trading Strategy
+
+![alt text](https://https://github.com/yashbamne00/Crypto-Algo/blob/main/result.png?raw=true)
+
+
 Description:
 This Python script fetches historical cryptocurrency price data, identifies buy/sell signals based on price breakouts, calculates profit/loss, and plots the results. 
 It looks at the highest high and lowest low over the last 250 bars to determine trade signals. The logic is kept simple, using only arrays and sorting instead of complex functions. 
